@@ -1,0 +1,21 @@
+grp_id,grp_name,grp_description,grp_type,city ,state
+1,Ahmadnagar hill station,A,hill station,Ahmadnagar,Maharashtra
+2,Ahmadnagar temple,B,temple,Ahmadnagar,Maharashtra
+3,Birbhum natural beuty,C,"hill station , waterfall",Birbhum,West Bengal
+4,Latur island,D,"island , beach",Latur,Maharashtra
+5,beautiful beaches,E,"island , beach",Ahmadabad,Gujarat
+6,Ahmadabad beach,F,beach,Ahmadabad,Gujarat
+7,Sangrur lakes,K,lake,Sangrur,Punjab
+8,beautiful lakes,L,"waterfall , park",Mirzapur,Uttar Pradesh
+9,Maldah temple,N,temple,Maldah ,West Bengal
+10,Muzaffarnagar hill station,O,hill station,Muzaffarnagar,Uttar Pradesh
+11,Gorakhpur beach,P,beach,Gorakhpur,Uttar Pradesh
+12,Nadia hill station,Q,hill station,Nadia ,West Bengal
+13,Religious temple,R,temple,Aizawl,Mizoram
+14,Panna beach,J,beach,Panna,Madhya Pradesh
+15,Kaushambi hill station,I,hill station,Kaushambi,Uttar Pradesh
+16,Ajmer lake,M,lake,Ajmer,Rajasthan
+17,cold hill station,G,hill station,Amritsar,Punjab
+18,maya hill station,S,hill station,Kolhapur,Maharashtra
+19,gayatri fort,Z,"historical , fort",Ludhiana,Punjab
+20,megha fort,T,fort,Janjgir-Champa,Chhattisgarh
